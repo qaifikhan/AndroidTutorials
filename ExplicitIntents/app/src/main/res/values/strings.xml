@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExplicitIntents</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="label_login_btn">Login</string>
+    <string name="str_welcome">Welcome</string>
+</resources>
