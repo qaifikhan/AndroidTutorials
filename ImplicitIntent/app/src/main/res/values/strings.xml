@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="str_label_capture_button">Capture Image</string>
+</resources>

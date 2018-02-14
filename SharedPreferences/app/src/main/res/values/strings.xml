@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferencecs</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="label_login_btn">Login</string>
+    <string name="label_signup_btn">SignUp</string>
+    <string name="hint_confirm_pwd">Confirm Password</string>
+    <string name="label_create_user_btn">Create User</string>
+</resources>

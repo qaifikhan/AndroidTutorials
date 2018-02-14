@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivitesAndLayouts</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="label_btn_login">Login</string>
+    <string name="rb_male">Male</string>
+    <string name="rb_female">Female</string>
+</resources>
