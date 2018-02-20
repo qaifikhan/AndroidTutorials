@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.androidtut.qaifi.sharedpreferencecs.SignUpActivity">
+    tools:context="com.androidtut.qaifi.sharedpreferences.SignUpActivity">
 
     <EditText
         android:id="@+id/ed_username"

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SharedPreferencecs.iml" filepath="$PROJECT_DIR$/SharedPreferencecs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedPreferences.iml" filepath="$PROJECT_DIR$/SharedPreferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
