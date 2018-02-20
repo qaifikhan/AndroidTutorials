@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">ActivityAndViews</string>
-
-    <string name="str_welcome">Welcome to Android Tut</string>
-    <string name="str_hint_username">Username</string>
-    <string name="btn_label_login">Login</string>
-</resources>
