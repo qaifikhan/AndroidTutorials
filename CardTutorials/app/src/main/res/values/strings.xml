@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CardTutorials</string>
+    <string name="str_card_text">This is a dummy card text</string>
+</resources>

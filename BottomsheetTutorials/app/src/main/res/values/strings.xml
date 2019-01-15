@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BottomsheetTutorials</string>
+    <string name="str_sheet_title">Drag me up</string>
+    <string name="str_sheet_content">Hello there</string>
+</resources>

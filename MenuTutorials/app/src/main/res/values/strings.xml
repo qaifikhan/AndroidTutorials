@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuTutorials</string>
+    <string name="str_user_profile">User Profile</string>
+    <string name="str_share">Share</string>
+</resources>
